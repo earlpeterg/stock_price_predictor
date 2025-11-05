@@ -1,22 +1,15 @@
 # Stock Price Predictor: Implementing Stocks Predictive Model Using Deep Learning
-August 2024, [International Journal of Computing Sciences Research](https://stepacademic.net/ijcsr) 8:3147-3156\
-[DOI:10.25147/ijcsr.2017.001.1.209](http://dx.doi.org/10.25147/ijcsr.2017.001.1.209)
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 The Stonks API provides tools for preprocessing stock market data, training machine learning models, and making predictions on future stock prices.
 
-## Overview
+**Abstract:**
 
-*Purpose* – This paper proposes a novel deep neural network model, specifically long short-term memory (LSTM) networks, for predicting stock prices using historical data and financial indicators.
+> *Purpose* – This paper proposes a novel deep neural network model, specifically long short-term memory (LSTM) networks, for predicting stock prices using historical data and financial indicators.<br><br>*Method* – LTSM can handle long sequences while capturing temporal dependencies, making it an excellent choice for NLP or time series. The model is trained and tested on the Ayala Corporation (AYALY) stock dataset from 2016 to 2019, using four financial indicators: earnings per share (EPS), EPS growth, price/earnings ratio, and price/earnings-to-growth ratio.<br><br>*Results* – The results show that the model achieves high accuracy and outperforms other Deep Neural Network variants as confirmed by assessing its performance using suitable metrics like mean squared error and mean absolute error. It effectively explored and selected relevant financial indicators, implemented data preprocessing techniques, and trained the model using historical data.<br><br>*Conclusion* – The project effectively explored and selected relevant financial indicators and trained LSTM models using historical data, and, thus, met its objectives to develop a deep neural network model for stock price prediction.<br><br>*Recommendations* – The authors recommend that future researchers continue to explore the integration of a diverse set of financial indicators, employ rigorous comparative analyses, and experiment with different time frames for future predictions to further enhance prediction accuracy.<br><br>*Keywords* – Deep Neural Network, Long Short-Term Memory (LSTM) Networks, Machine Learning, Stock Price Prediction, Time Series Forecasting
 
-*Method* – LTSM can handle long sequences while capturing temporal dependencies, making it an excellent choice for NLP or time series. The model is trained and tested on the Ayala Corporation (AYALY) stock dataset from 2016 to 2019, using four financial indicators: earnings per share (EPS), EPS growth, price/earnings ratio, and price/earnings-to-growth ratio.
-
-*Results* – The results show that the model achieves high accuracy and outperforms other Deep Neural Network variants as confirmed by assessing its performance using suitable metrics like mean squared error and mean absolute error. It effectively explored and selected relevant financial indicators, implemented data preprocessing techniques, and trained the model using historical data.
-
-*Conclusion* – The project effectively explored and selected relevant financial indicators and trained LSTM models using historical data, and, thus, met its objectives to develop a deep neural network model for stock price prediction.
-
-*Recommendations* – The authors recommend that future researchers continue to explore the integration of a diverse set of financial indicators, employ rigorous comparative analyses, and experiment with different time frames for future predictions to further enhance prediction accuracy.
-
-*Keywords* – Deep Neural Network, Long Short-Term Memory (LSTM) Networks, Machine Learning, Stock Price Prediction, Time Series Forecasting
+**Read the full paper:** [DOI:10.25147/ijcsr.2017.001.1.209](http://dx.doi.org/10.25147/ijcsr.2017.001.1.209)\
+August 2024, [International Journal of Computing Sciences Research](https://stepacademic.net/ijcsr) 8:3147-3156
 
 ## Usage
 
